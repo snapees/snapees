@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Amit Thakur and I'm a Engineer, from Lucknow, Uttar Pradesh.</h3>
+<h3 align="center">My name is Amit Thakur and I'm a Engineer.</h3>
 
 ###
 
